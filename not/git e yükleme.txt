@@ -1,0 +1,8 @@
+rodemis@k1m22s04 ~ % cd desktop/shell00
+rodemis@k1m22s04 shell00 % git init
+Initialized empty Git repository in /Users/rodemis/Desktop/shell00/.git/
+rodemis@k1m22s04 shell00 % git config user.name "rodemis"
+rodemis@k1m22s04 shell00 % git config user.email "recepodemis6@gmail.com"
+rodemis@k1m22s04 shell00 % git add .
+rodemis@k1m22s04 shell00 % git commit -m "initial commit"
+odemis@k1m22s04 shell00 % git push
